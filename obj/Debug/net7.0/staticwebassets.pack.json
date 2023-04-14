@@ -1,0 +1,713 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Cms.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cms.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\css\\styleAdmin.css",
+      "PackagePath": "staticwebassets\\css\\styleAdmin.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\03ae8e5e-091b-4b5c-9d0d-61ffc60faaf8.jpg",
+      "PackagePath": "staticwebassets\\images\\03ae8e5e-091b-4b5c-9d0d-61ffc60faaf8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\04cfdbc2-6438-465b-adab-46f046e71a53.jpg",
+      "PackagePath": "staticwebassets\\images\\04cfdbc2-6438-465b-adab-46f046e71a53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\07ea76d1-d14c-47a1-91f3-bd8707a6fb22.png",
+      "PackagePath": "staticwebassets\\images\\07ea76d1-d14c-47a1-91f3-bd8707a6fb22.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\08e8cb0c-c6ff-42aa-aa6b-22dfb2d5747d.png",
+      "PackagePath": "staticwebassets\\images\\08e8cb0c-c6ff-42aa-aa6b-22dfb2d5747d.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\09265730-c4bb-4adf-8e18-4f548c4fa86a.png",
+      "PackagePath": "staticwebassets\\images\\09265730-c4bb-4adf-8e18-4f548c4fa86a.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\0bc38838-1902-4361-adbc-7279d77cae89.png",
+      "PackagePath": "staticwebassets\\images\\0bc38838-1902-4361-adbc-7279d77cae89.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\204abf03-e571-4bbc-96ca-521d51cc630a.jpg",
+      "PackagePath": "staticwebassets\\images\\204abf03-e571-4bbc-96ca-521d51cc630a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\2304f209-05d6-4154-9a9a-1cd8ab74c475.png",
+      "PackagePath": "staticwebassets\\images\\2304f209-05d6-4154-9a9a-1cd8ab74c475.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\236fb3ed-7b3b-4559-9514-2918b09b3202.png",
+      "PackagePath": "staticwebassets\\images\\236fb3ed-7b3b-4559-9514-2918b09b3202.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\24d9b606-72f5-4295-afe2-251402bbd7a8.png",
+      "PackagePath": "staticwebassets\\images\\24d9b606-72f5-4295-afe2-251402bbd7a8.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\2a5a5b4e-9e8b-4eb9-ba1a-95d5d95f18b6.jpg",
+      "PackagePath": "staticwebassets\\images\\2a5a5b4e-9e8b-4eb9-ba1a-95d5d95f18b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\305db3d4-960e-4daa-b813-0e9ba3a1c83d.jpg",
+      "PackagePath": "staticwebassets\\images\\305db3d4-960e-4daa-b813-0e9ba3a1c83d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\33129c9f-a580-4adf-85f1-ab3d2a52c694.png",
+      "PackagePath": "staticwebassets\\images\\33129c9f-a580-4adf-85f1-ab3d2a52c694.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\3d954695-8c7f-421d-883d-b2d2c7789095.png",
+      "PackagePath": "staticwebassets\\images\\3d954695-8c7f-421d-883d-b2d2c7789095.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\48086949-77f0-4d9b-96aa-e5bb8457d4b2.jpg",
+      "PackagePath": "staticwebassets\\images\\48086949-77f0-4d9b-96aa-e5bb8457d4b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\655064b7-e264-4082-ac2c-68381c12c08a.jpg",
+      "PackagePath": "staticwebassets\\images\\655064b7-e264-4082-ac2c-68381c12c08a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\681162c7-33f8-4380-9d0e-6860ef2d3d92.png",
+      "PackagePath": "staticwebassets\\images\\681162c7-33f8-4380-9d0e-6860ef2d3d92.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\7388ab5f-047d-46d2-ae7a-26dacf940e7a.png",
+      "PackagePath": "staticwebassets\\images\\7388ab5f-047d-46d2-ae7a-26dacf940e7a.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\77977931-64fe-4fd3-872b-21225beedd1b.jpg",
+      "PackagePath": "staticwebassets\\images\\77977931-64fe-4fd3-872b-21225beedd1b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\7f178119-7e7f-4fe4-bc6d-29400e1d53a8.png",
+      "PackagePath": "staticwebassets\\images\\7f178119-7e7f-4fe4-bc6d-29400e1d53a8.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\8029d18f-c6c3-4d4d-8f34-62c5835ca31a.jpg",
+      "PackagePath": "staticwebassets\\images\\8029d18f-c6c3-4d4d-8f34-62c5835ca31a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\8eb67506-eb6c-405d-bc8a-9c53064d9e0c.jpg",
+      "PackagePath": "staticwebassets\\images\\8eb67506-eb6c-405d-bc8a-9c53064d9e0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\94570f4e-8eac-415d-8f7c-a854240d4394.png",
+      "PackagePath": "staticwebassets\\images\\94570f4e-8eac-415d-8f7c-a854240d4394.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\a7413fa7-c385-4dba-80b9-0a8c38b3c732.png",
+      "PackagePath": "staticwebassets\\images\\a7413fa7-c385-4dba-80b9-0a8c38b3c732.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\05.png",
+      "PackagePath": "staticwebassets\\images\\about\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\1.png",
+      "PackagePath": "staticwebassets\\images\\about\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\2.png",
+      "PackagePath": "staticwebassets\\images\\about\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\3.png",
+      "PackagePath": "staticwebassets\\images\\about\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\4.png",
+      "PackagePath": "staticwebassets\\images\\about\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\5.png",
+      "PackagePath": "staticwebassets\\images\\about\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\6.png",
+      "PackagePath": "staticwebassets\\images\\about\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\about-4.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\about\\sign.png",
+      "PackagePath": "staticwebassets\\images\\about\\sign.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\af45e012-c74e-49bd-b64b-9c320e0e45fc.jpg",
+      "PackagePath": "staticwebassets\\images\\af45e012-c74e-49bd-b64b-9c320e0e45fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\b1302e52-7c92-401c-acaf-cc36d4ebfb40.png",
+      "PackagePath": "staticwebassets\\images\\b1302e52-7c92-401c-acaf-cc36d4ebfb40.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\b6a234f1-041f-4d74-bf9c-d701b495749a.jpg",
+      "PackagePath": "staticwebassets\\images\\b6a234f1-041f-4d74-bf9c-d701b495749a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\b948f7dc-78a3-42e6-846f-598124bb3ec0.png",
+      "PackagePath": "staticwebassets\\images\\b948f7dc-78a3-42e6-846f-598124bb3ec0.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\bg\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\bg\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\bg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\bg\\slider-bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\testimonial1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\testimonial1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\blog\\testimonial2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\testimonial2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\c3b70e44-15f3-4721-b587-d1e83c320be8.jpg",
+      "PackagePath": "staticwebassets\\images\\c3b70e44-15f3-4721-b587-d1e83c320be8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\cde366c3-6f13-436a-aa6c-1dffa127c1c6.png",
+      "PackagePath": "staticwebassets\\images\\cde366c3-6f13-436a-aa6c-1dffa127c1c6.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\d6cc0be2-7796-45ab-8a31-a667b95b7af8.png",
+      "PackagePath": "staticwebassets\\images\\d6cc0be2-7796-45ab-8a31-a667b95b7af8.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\d8709bbb-e7e4-479a-8c10-3f17f77738bf.jpg",
+      "PackagePath": "staticwebassets\\images\\d8709bbb-e7e4-479a-8c10-3f17f77738bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\ef8ce14e-8665-443f-818e-b36d6a8a4031.PNG",
+      "PackagePath": "staticwebassets\\images\\ef8ce14e-8665-443f-818e-b36d6a8a4031.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\f36c3065-8593-41a1-bb2f-0f5edf2c6c94.PNG",
+      "PackagePath": "staticwebassets\\images\\f36c3065-8593-41a1-bb2f-0f5edf2c6c94.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\marker.png",
+      "PackagePath": "staticwebassets\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\service-1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\service-4.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\service-6.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\service\\service-8.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\service-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\test-thumb1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\test-thumb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\test-thumb2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\test-thumb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\test-thumb3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\test-thumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\images\\team\\test-thumb4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\test-thumb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\demo.html",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\icofont.css",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\plugins\\icofont\\icofont.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\shuffle\\shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurullah\\Desktop\\asp.net\\projeler\\asp.net core\\Cms.Web\\Cms.Web\\wwwroot\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Cms.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Cms.Web.props",
+      "PackagePath": "build\\Cms.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Cms.Web.props",
+      "PackagePath": "buildMultiTargeting\\Cms.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Cms.Web.props",
+      "PackagePath": "buildTransitive\\Cms.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

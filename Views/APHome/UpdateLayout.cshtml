@@ -1,0 +1,53 @@
+﻿@model AdminLayout
+@{
+    ViewData["Title"] = "UpdateLayout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>UpdateLayout</h1>
+
+<form asp-controller="APHome" asp-action="UpdateLayout" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email İsmi : </label>
+        <input class="form-control" asp-for="Email">
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>  
+    
+    <div class="mb-3">
+        <label asp-for="PhoneNumber" class="form-label">PhoneNumber İsmi : </label>
+        <input class="form-control" asp-for="PhoneNumber">
+        <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+    </div>   
+    
+    <div class="mb-3">
+        <label asp-for="Location" class="form-label">Location İsmi : </label>
+        <input class="form-control" asp-for="Location">
+        <span class="text-danger" asp-validation-for="Location"></span>
+    </div>    
+
+    <div class="mb-3">
+        <label asp-for="Twitter" class="form-label">Twitter İsmi : </label>
+        <input class="form-control" asp-for="Twitter">
+        <span class="text-danger" asp-validation-for="Twitter"></span>
+    </div>    
+
+    <div class="mb-3">
+        <label asp-for="Facebook" class="form-label">Facebook İsmi : </label>
+        <input class="form-control" asp-for="Facebook">
+        <span class="text-danger" asp-validation-for="Facebook"></span>
+    </div>   
+
+    <div class="mb-3">
+        <label asp-for="Linkedn" class="form-label">Linkedn İsmi : </label>
+        <input class="form-control" asp-for="Linkedn">
+        <span class="text-danger" asp-validation-for="Linkedn"></span>
+    </div>    
+
+    <div class="mb-3">
+        <label asp-for="FooterText" class="form-label">FooterText İsmi : </label>
+        <input class="form-control" asp-for="FooterText">
+        <span class="text-danger" asp-validation-for="FooterText"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Ürün Güncelle</button>
+</form>

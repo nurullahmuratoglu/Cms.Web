@@ -1,0 +1,26 @@
+﻿@model ContactForm
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<span><b>İsim Soyisim:</b> @Model.FullName</span><br />
+<span>
+    <b> Email:</b> @Model.Email
+</span>
+<br />
+<span>
+    <b>Konu:</b> @Model.Topic
+</span>
+<br />
+<span>
+    <b> Telefon Numarası:</b> @Model.PhoneNumber
+</span>
+<br />
+<span>
+    <p><b>Mesaj:</b><br /> &nbsp;&nbsp;&nbsp;&nbsp;@Model.Message</p>
+</span>
+<br />
+<span><b>Tarih:</b> @Model.SendDate</span>

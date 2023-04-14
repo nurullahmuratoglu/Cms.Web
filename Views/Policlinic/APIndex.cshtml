@@ -1,0 +1,34 @@
+﻿@model List<Policlinic>
+@{
+    ViewData["Title"] = "APIndex";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>APIndex</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Poliklinik</th>
+            <th scope="col">Açıklama</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <th scope="row">@item.Id</th>
+            <td>@item.Name</td>
+                <td>@item.Description.ToString().Substring(0, (item.Description.Length > 20) ? 20 : item.Description.Length )</td>
+                <td><a asp-action="Delete" asp-controller="Policlinic" asp-route-id="@item.Id" class="btn btn-danger">Sil</a></td>
+                <td>
+                    <a asp-action="Update" asp-controller="Policlinic" asp-route-id="@item.Id" class="btn btn-info">Güncelle</a>
+                </td>
+        </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Policlinic" asp-action="Add" class="btn btn-primary btn-lg btn-block">Poliklinik Ekle</a>

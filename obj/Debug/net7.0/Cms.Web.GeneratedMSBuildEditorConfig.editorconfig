@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cms.Web
+build_property.RootNamespace = Cms.Web
+build_property.ProjectDir = C:\Users\Nurullah\Desktop\asp.net\projeler\asp.net core\Cms.Web\Cms.Web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Nurullah\Desktop\asp.net\projeler\asp.net core\Cms.Web\Cms.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/APHome/UpdateLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVBIb21lXFVwZGF0ZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Blog/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Blog/APIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBUEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Blog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Blog/WebSiteDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xXZWJTaXRlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Blog/WebSiteIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xXZWJTaXRlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Contact/APIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxBUEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Contact/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Doctor/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Doctor/ApIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEFwSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Doctor/WebSiteIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFdlYlNpdGVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Home/ApHomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcEhvbWVQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Home/UpdateHomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVIb21lUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Policlinic/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNsaW5pY1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Policlinic/APIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNsaW5pY1xBUEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Policlinic/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNsaW5pY1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Policlinic/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNsaW5pY1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Policlinic/WebSiteIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWNsaW5pY1xXZWJTaXRlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Referans/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Referans/ApIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJhbnNcQXBJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/User/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nurullah/Desktop/asp.net/projeler/asp.net core/Cms.Web/Cms.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gl8xh0g2sb

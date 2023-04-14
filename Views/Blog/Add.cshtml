@@ -1,0 +1,32 @@
+﻿@model Cms.Web.ViewModel.BlogViewModel
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Add</h1>
+
+<form asp-action="Add" asp-controller="Blog" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Başlık</label>
+        <input asp-for="Title" class="form-control" placeholder="" style="border-style: solid;border-width: 1px; background-color :#f2f2f2;">
+        <span class="text-danger" asp-validation-for="Title"></span>
+    </div>    
+    <div class="form-group">
+        <label for="exampleInputEmail1">Konu</label>
+        <input asp-for="Subject" class="form-control" placeholder="" style="border-style: solid;border-width: 1px; background-color :#f2f2f2;">
+        <span class="text-danger" asp-validation-for="Subject"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Açıklama</label>
+        <textarea asp-for="Content" class="form-control" style="border-style: solid;border-width: 1px; background-color : #f2f2f2;"></textarea>
+        <span class="text-danger" asp-validation-for="Content"></span>
+    </div>
+    <div class="mb-3">
+        <label for="formFileLg" class="form-label">Resim</label>
+        <input class="form-control form-control-lg" asp-for="Image" type="file">
+
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
+

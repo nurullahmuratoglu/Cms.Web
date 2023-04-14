@@ -1,0 +1,36 @@
+﻿@model HomePage
+@{
+    ViewData["Title"] = "ApHomePage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>ApHomePage</h1>
+
+<form asp-controller="Home" asp-action="UpdateHomePage" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="WorkingHours" class="form-label">Çalışma Saatleri </label>
+        <input class="form-control" asp-for="WorkingHours">
+        <span class="text-danger" asp-validation-for="WorkingHours"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TotalDoctor" class="form-label">Toplam Doktor </label>
+        <input class="form-control" asp-for="TotalDoctor">
+        <span class="text-danger" asp-validation-for="TotalDoctor"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TotalExamined" class="form-label">Toplam Muayeni </label>
+        <input class="form-control" asp-for="TotalExamined">
+        <span class="text-danger" asp-validation-for="TotalExamined"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TotalOperation" class="form-label">Toplam Ameliyat </label>
+        <input class="form-control" asp-for="TotalOperation">
+        <span class="text-danger" asp-validation-for="TotalOperation"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Ürün Güncelle</button>
+</form>

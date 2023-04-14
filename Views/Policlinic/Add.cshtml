@@ -1,0 +1,21 @@
+﻿@model Policlinic
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Add</h1>
+
+<form asp-action="Add" asp-controller="Policlinic">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Polikilinik İsmi</label>
+        <input asp-for="Name" class="form-control" placeholder="" style="border-style: solid;border-width: 1px; background-color :#f2f2f2;" >
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Açıklama</label>
+        <textarea asp-for="Description" class="form-control" placeholder="Polikilinik İsmi" style="border-style: solid;border-width: 1px; background-color : #f2f2f2;" ></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

@@ -1,0 +1,20 @@
+﻿@model Cms.Web.ViewModel.BlogViewModel
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<span><b>Başlık</b> @Model.Title</span><br />
+<span>
+    <b> Konu:</b> @Model.Subject
+</span>
+<br />
+<span>
+    <b>Tarih</b> @Model.Sendtime
+</span>
+<br />
+
+<span>
+    <p><b>İçerik</b><br /> &nbsp;&nbsp;&nbsp;&nbsp;@Model.Content</p>
+</span>
+<img src="~/images/@Model.ImagePath" alt="" class="img-fluid">

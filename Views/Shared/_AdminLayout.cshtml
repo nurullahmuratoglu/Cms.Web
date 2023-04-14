@@ -1,0 +1,74 @@
+﻿@{
+    Layout = null;
+}
+
+<html lang="en">
+<head>
+    <title>Sidebar 04</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/styleAdmin.css">
+</head>
+<body>
+
+    <div class="wrapper d-flex align-items-stretch">
+        <nav id="sidebar">
+            <div class="custom-menu">
+                <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                    <i class="fa fa-bars"></i>
+                    <span class="sr-only">Toggle Menu</span>
+                </button>
+            </div>
+            <h1><a asp-action="UpdateHomePage" asp-controller="Home" class="logo">Project Name</a></h1>
+            <ul class="list-unstyled components mb-5">
+                <li >
+                    <a asp-action="UpdateHomePage" asp-controller="Home"><span class="fa fa-home mr-3"></span> Ana Sayfa</a>
+                </li>
+                <li>
+                    <a asp-action="UpdateLayout" asp-controller="APHome"><span class="fa fa-user mr-3"></span> Header Ve Footer</a>
+                </li>                
+                <li>
+                    <a asp-action="APIndex" asp-controller="Contact"><span class="fa fa-user mr-3"></span> İletişim Formları</a>
+                </li>
+                <li>
+                    <a asp-action="APIndex" asp-controller="Policlinic"><span class="fa fa-sticky-note mr-3"></span> Poliklinikler</a>
+                </li>
+                <li>
+                    <a asp-action="APIndex" asp-controller="Doctor"><span class="fa fa-sticky-note mr-3"></span> Doktorlar</a>
+                </li>
+                <li>
+                    <a asp-action="APIndex" asp-controller="Blog"><span class="fa fa-paper-plane mr-3"></span> Bloglar</a>
+                </li>           
+                <li>
+                    <a asp-action="APIndex" asp-controller="Referans"><span class="fa fa-paper-plane mr-3"></span>Referanslarımız</a>
+                </li>                
+                <li>
+                    <a asp-action="Index" asp-controller="Home" target="_blank"><span class="fa fa-paper-plane mr-3"></span>Web Site</a>
+                </li>                
+                <li>
+                    <a asp-action="Logout" asp-controller="Admin"><span class="fa fa-paper-plane mr-3"></span>Çıkış Yap</a>
+                </li>
+            </ul>
+
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content" class="p-4 p-md-5 pt-5">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+    <script src="~/js/popper.js"></script>
+    <script src="~/js/main.js"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
